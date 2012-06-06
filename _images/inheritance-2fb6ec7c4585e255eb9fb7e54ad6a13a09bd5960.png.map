@@ -1,0 +1,7 @@
+<map id="inheritance0a8724f3ad" name="inheritance0a8724f3ad">
+<area shape="rect" id="node1" href="#tamkin.chemmod.ActivationKineticModel" title="A model for the rate constant of a single&#45;step chemical reaction with a pre&#45;reactive complex." alt="" coords="5,152,171,177"/>
+<area shape="rect" id="node2" href="#tamkin.chemmod.BaseKineticModel" title="A generic model for the rate constant of a chemical reaction." alt="" coords="99,79,234,104"/>
+<area shape="rect" id="node4" href="#tamkin.chemmod.KineticModel" title="A model for the rate constant of a single&#45;step chemical reaction." alt="" coords="195,152,298,177"/>
+<area shape="rect" id="node3" href="#tamkin.chemmod.BaseModel" title="Base class for all physico&#45;chemical models." alt="" coords="207,5,299,31"/>
+<area shape="rect" id="node5" href="#tamkin.chemmod.ThermodynamicModel" title="A model for a thermodynamic equilibrium." alt="" coords="259,79,421,104"/>
+</map>
